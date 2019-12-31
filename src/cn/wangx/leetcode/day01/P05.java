@@ -1,4 +1,4 @@
-package cn.wangx.leetcode.day1;
+package cn.wangx.leetcode.day01;
 
 /**
  * Create by wangx On 2019/12/26

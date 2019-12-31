@@ -1,7 +1,6 @@
-package cn.wangx.leetcode.day1;
+package cn.wangx.leetcode.day01;
 
 import java.util.ArrayList;
-import java.util.Stack;
 
 /**
  * Create by wangx On 2019/12/26

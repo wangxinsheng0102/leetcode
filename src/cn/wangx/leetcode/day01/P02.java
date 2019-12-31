@@ -1,6 +1,5 @@
-package cn.wangx.leetcode.day1;
+package cn.wangx.leetcode.day01;
 
-import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 

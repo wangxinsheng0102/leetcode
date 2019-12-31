@@ -1,4 +1,4 @@
-package cn.wangx.leetcode.day1;
+package cn.wangx.leetcode.day01;
 
 import java.util.HashSet;
 import java.util.Set;

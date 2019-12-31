@@ -1,4 +1,4 @@
-package cn.wangx.leetcode.day2;
+package cn.wangx.leetcode.day02;
 
 import java.util.HashMap;
 import java.util.Map;

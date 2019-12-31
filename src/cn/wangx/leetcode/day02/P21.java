@@ -1,9 +1,6 @@
-package cn.wangx.leetcode.day2;
-
-import com.sun.org.apache.bcel.internal.generic.LUSHR;
+package cn.wangx.leetcode.day02;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
